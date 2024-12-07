@@ -19,3 +19,4 @@
 - VB [x]
 - R [x]
 - Perl [x]
+- Elixir [x]
