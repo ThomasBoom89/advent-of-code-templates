@@ -20,3 +20,4 @@
 - R [x]
 - Perl [x]
 - Elixir [x]
+- Scala [x]
